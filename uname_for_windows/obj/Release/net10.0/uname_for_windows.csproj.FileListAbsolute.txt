@@ -1,0 +1,16 @@
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\bin\Release\net10.0\uname_for_windows.exe
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\bin\Release\net10.0\uname_for_windows.deps.json
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\bin\Release\net10.0\uname_for_windows.runtimeconfig.json
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\bin\Release\net10.0\uname_for_windows.dll
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\bin\Release\net10.0\uname_for_windows.pdb
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.Properties.Resources.resources
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.csproj.GenerateResource.cache
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.AssemblyInfoInputs.cache
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.AssemblyInfo.cs
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.csproj.CoreCompileInputs.cache
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.dll
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\refint\uname_for_windows.dll
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.pdb
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\uname_for_windows.genruntimeconfig.cache
+C:\Users\E1245AM\SynologyDrive\source\repos\uname_for_windows\uname_for_windows\obj\Release\net10.0\ref\uname_for_windows.dll

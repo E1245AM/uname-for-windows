@@ -37,14 +37,18 @@ class WindowsUname
                     Architecture.Arm64 => "arm64",
                     _ => RuntimeInformation.OSArchitecture.ToString()
                 };
-                string opt = args[0];
 
-                //打印屏幕
-                if (args.Length == 0)
+                string opt = args.Length > 0 ? args[0] : null;
+
+                // 无参数时默认输出
+                if (opt == null)
                 {
                     Console.WriteLine("Windows");
                     return;
                 }
+
+                //==========分割线==========
+
                 if (args.Length > 0 && (args[0] == "-a" || args[0] == "--all"))
                 {
 

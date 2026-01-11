@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNwVEUozey0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\E1245AM\\SynologyDrive\\source\\repos\\uname_for_windows\\uname_for_windows\\uname_for_windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\E1245AM\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.1\\microsoft.net.illink.tasks.10.0.1.nupkg.sha512",
+    "C:\\Users\\E1245AM\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.1\\microsoft.netcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\E1245AM\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.1\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\E1245AM\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.1\\microsoft.aspnetcore.app.runtime.win-x64.10.0.1.nupkg.sha512",
+    "C:\\Users\\E1245AM\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}
