@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "uname_for_windows": {
+      "commandName": "Project",
+      "commandLineArgs": "--version"
+    }
+  }
+}
