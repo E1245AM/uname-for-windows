@@ -26,13 +26,13 @@ With no options, the default output is equivalent to -s.
 Supported Options:  
 | Short | Long | Description | 
 |--|--|--| 
-| -a | ---all | print all information | 
-| -s | ---kernel-name | print the kernel name |
-| -n | ---nodename | print the network node hostname |
-| -r | ---kernel-release | print the kernel release |
-| -v | ---kernel-version | print the kernel version |
-| -m | ---machine | print the machine hardware name |
-| -p | ---processor | print the processor type (non-portable) |
+| -a | --all | print all information | 
+| -s | --kernel-name | print the kernel name |
+| -n | --nodename | print the network node hostname |
+| -r | --kernel-release | print the kernel release |
+| -v | --kernel-version | print the kernel version |
+| -m | --machine | print the machine hardware name |
+| -p | --processor | print the processor type (non-portable) |
 | -i | --hardware-platform | print the hardware platform (non-portable) |
 | -o | --operating-system | print the operating system |
 | | --help | display this help and exit |
